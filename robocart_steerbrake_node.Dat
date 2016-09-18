@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~robocart_steerbrake_node.PrjPcb|ReportField=ProjectFullPath~C:\Users\Keshuai\Desktop\robocart_steerbrake_node\robocart_steerbrake_node.PrjPcb|ReportField=Title~Bill of Materials For Project [robocart_steerbrake_node.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~62|ReportField=ReportTime~10:13:47 PM|ReportField=ReportDate~7/4/2016|ReportField=ReportDateTime~7/4/2016 10:13:47 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/4/2016|ReportField=CurrentTime~10:13:30 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Keshuai\Desktop\robocart_steerbrake_node\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/1/2016|ReportField=Organization~|ReportField=ProjectName~robocart_steerbrake_node.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~robocart_steerbrake_node.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Keshuai\Desktop\robocart_steerbrake_node\robocart_steerbrake_node.PrjPcb
+1|Cap_0603|Capacitor|C1_POT1, C1_POT2, C1_POT3, C1_POT4, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16|CAP_0603|Cap_0603|14
+2|GRM188R71A225KE15D|CAP, CERM, 2.2uF, 10V, +/-10%, X7R, 0603, CAP, CERM, 2.2 µF, 10 V, +/- 10%, X7R, 0603|C2, C3|CAP_0603|GRM188R71A225KE15D|2
+3|GRM188R71A225KE15D|CAP, CERM, 2.2uF, 10V, +/-10%, X7R, 0603|C4|CAP_0805|GRM188R71A225KE15D|1
+4|GRM155R71E822KA01D|CAP, CERM, 8200pF, 25V, +/-10%, X7R, 0402|C5|CAP_0805|GRM155R71E822KA01D|1
+5|GRM155R71E822KA01D|CAP, CERM, 8200pF, 25V, +/-10%, X7R, 0402|C6|CAP_0603|GRM155R71E822KA01D|1
+6|LED_0603|LED|D1, D2, D3, D4, D5, D6|LED_0603_RED|LED_0603|6
+7|mounting hole||MH1, MH2|M3 hole|TEST-POINT2|2
+8|pot|Header|P1_POT1, P1_POT2, P1_POT3, P1_POT4|COMBICON PTSA 3|HDR1x3_2.54|4
+9|brake_limit_sw_left|Header|P2|COMBICON PTSA 2|HDR1x2_2.54|1
+10|brake_limit_sw_right|Header|P3|COMBICON PTSA 2|HDR1x2_2.54|1
+11|Sabertooth|Header|P4|COMBICON PTSA 3|HDR1x3_2.54|1
+12|CAN bus|Header|P5, P6|COMBICON PTSA 4|HDR1x4_2.54|2
+13|st estop|Header|P7|COMBICON PTSA 2|HDR1x2_2.54|1
+14|HDR2x4_2.54|Header|P8|HDR2X4_2.54_90|HDR2x4_2.54|1
+15|Generic PMOSFET    IRLML2244 - TRANS-11153 (SOT-23 -20V -4.3A) (1.Gate 2.Source 3.Drain)     FQP27P06 - COM-10349(TO-220 -60V -27A) (1.Gate 2.Source 3.Drain)||Q1|SOT23-3|MOSFET-PCHANNEL|1
+16|Res_0603|Resistor|R1_POT1, R1_POT2, R1_POT3, R1_POT4, R3, R5, R6, R7, R8, R9, R10, R11, R12|RES_0603|Res_0603|13
+17|CRCW040235K7FKED|RES, 35.7k ohm, 1%, 0.063W, 0402|R2|RES_0603|CRCW040235K7FKED|1
+18|CRCW04026K81FKED|RES, 6.81k ohm, 1%, 0.063W, 0402|R4|RES_0603|CRCW04026K81FKED|1
+19|Buzzer 12mmSpark Fun Electronics SKU : Comp-Buzzer||SG1|Buzzer_5x5|BUZZERPTH|1
+20|turn on||SJ1|HDR1X2_2.54_180|JUMPER-PAD-2-NOROUND|1
+21|st s2||SJ2|PAD-JUMPER-2-NO_YES_SILK|JUMPER-PAD-2-NOROUND|1
+22|Footprint for Teensy 3.1 board using all pin connections on the outer perimeter||TEENSY1|TEENSY_3.1_BASIC_FIXED|TEENSY_3.1_BASIC|1
+23|LMZ21701SIL|1A SIMPLE SWITCHER Nano Module with 17V Maximum Input Voltage, SIL0008E|U1|LMZ21701SIL|LMZ21701SIL|1
+24|LP5907MFX-3.3/NOPB|ULTRA LOW-NOISE, 250-mA LINEAR REGULATOR FOR RF AND ANALOG CIRCUITS REQUIRES NO BYPASS CAPACITOR, DBV0005A|U2|DBV0005A_N|LP5907MFX-3.3/NOPB|1
+25|74LVCH2T45 Dual supply translating transceiver; 3-state||U3|SOP65P490X110-8N|74LVCH2T45|1
+26|TCAN1051HGV CAN transceiver||U4|SOIC_E200_8|TCAN1051HGV|1
